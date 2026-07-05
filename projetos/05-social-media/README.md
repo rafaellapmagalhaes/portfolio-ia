@@ -3,7 +3,7 @@
 
 ## 🎯 O problema
 
-A produção de conteúdo para o Instagram do escritório era feita completamente de forma manual: pensar nos temas, escrever as legendas, criar as artes, revisar, aprovar e agendar. Um processo que envolvia múltiplas pessoas e tomava **uma semana inteira** para entregar os posts da semana.
+A produção de conteúdo para o Instagram do escritório e da empresa era feita completamente de forma manual: pensar nos temas, escrever as legendas, criar as artes, revisar, aprovar e agendar. Um processo que envolvia múltiplas pessoas e tomava **uma semana inteira** para entregar os posts da semana.
 
 **Situação anterior:**
 - Reunião de pauta para definir temas
@@ -77,6 +77,12 @@ Briefing / diretrizes da empresa (input único)
 - **IA de imagem:** ChatGPT e Claude Design
 - **Publicação:** Instagram Graph API com Metricool
 - **Agendamento:** Integrado via API pelo Metricool
+
+---
+
+## 📱 Exemmplos
+
+- @credijus_ e @gmendonca.adv
 
 ---
 
