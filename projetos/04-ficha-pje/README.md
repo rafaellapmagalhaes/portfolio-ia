@@ -62,10 +62,8 @@ EPROC       ESAJ        PJE
 ## 🛠 Stack
 
 - **IA:** Claude (Anthropic)
-- **Automação web:** Playwright
-- **Orquestração:** n8n
 - **Sistema alvo:** PJE
-- **Output:** Ficha estruturada (JSON / documento)
+- **Output:** Ficha estruturada (.docx)
 
 ---
 
