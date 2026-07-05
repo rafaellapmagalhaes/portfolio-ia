@@ -56,9 +56,8 @@ DJEN (publicações do dia)
 
 ## 🛠 Stack
 
-- **IA:** Claude (Anthropic)
-- **Automação:** n8n
+- **IA:** Claude (Anthropic), agora está 100% automatizado por Python, sem uso de IA
 - **Fonte:** DJEN (Diário da Justiça Eletrônico Nacional)
-- **Output:** Relatório estruturado diário
+- **Output:** Relatório estruturado diário, planilha Excel.
 
 > ⚠️ O prompt e as instruções internas são proprietários e não estão disponíveis neste repositório.
