@@ -52,10 +52,8 @@ Os três sistemas juntos (EPROC + ESAJ + PJE) cobrem a grande maioria dos proces
 ## 🛠 Stack
 
 - **IA:** Claude (Anthropic)
-- **Automação web:** Playwright
-- **Orquestração:** n8n
 - **Sistema alvo:** ESAJ (TJSP)
-- **Output:** Ficha estruturada (JSON / documento)
+- **Output:** Ficha estruturada (.docx)
 
 ---
 
