@@ -39,7 +39,6 @@ Número do processo (input)
 **Dados extraídos automaticamente:**
 - Identificação das partes (autor, réu, advogados)
 - CPF / CNPJ
-- Endereço quando disponível
 - Valor da causa
 - Fase e status processual
 - Últimas movimentações relevantes
@@ -63,10 +62,8 @@ Número do processo (input)
 ## 🛠 Stack
 
 - **IA:** Claude (Anthropic)
-- **Automação web:** Playwright
-- **Orquestração:** n8n
 - **Sistema alvo:** EPROC
-- **Output:** Ficha estruturada (JSON / documento)
+- **Output:** Ficha estruturada (.docx)
 
 ---
 
