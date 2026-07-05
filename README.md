@@ -80,7 +80,13 @@ Este portfólio documenta a lógica, o impacto e a arquitetura das soluções �
 
 ---
 
-## 📬 Contato
+## 📬 Contatos
 
 Interessado em automação com IA para o setor jurídico ou outras áreas?  
-Entre em contato: **[seu LinkedIn]** · **[seu e-mail]**
+
+<div>
+<a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/rafaella-magalhães-a720b23b0/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:rafaellapmg@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
+
