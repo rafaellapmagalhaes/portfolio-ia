@@ -63,6 +63,15 @@ Pipeline de IA que cria, revisa e publica conteúdo no Instagram de forma autôn
 
 ---
 
+### 06 — Automação completa de antichaptcha de texto distorcido (Segurança)
+**[Ver case completo →](projetos/06-captcha-solver/README.md)**
+
+Programa que ajuda na automação em sites que apresentam captchas de textos distorcidos.
+
+`Anticaptcha` `Automação` `Otimização` `Publicação automatizada`
+
+---
+
 ## 🛠 Stack de ferramentas
 
 - **IA:** Claude (Anthropic) · GPT-4o
