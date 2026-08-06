@@ -1,6 +1,6 @@
-# 🤖 Portfólio de Automação com IA
+# 🤖 Portfólio de Automação em Python com a ajuda da IA
 
-> Projetos reais de automação com Inteligência Artificial desenvolvidos no setor jurídico.  
+> Projetos reais de automação em python com o auxílio da Inteligência Artificial desenvolvidos no setor jurídico.  
 > Cada projeto documenta o problema, a lógica da solução e o impacto mensurável gerado.
 
 ---
